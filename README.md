@@ -11,7 +11,7 @@ Simple clash premiun core installer with full tun support for Linux.
 2. Clone repository
 
    ```bash
-   git clone https://github.com/Kr328/clash-premium-installer
+   git clone https://github.com/tom-snow/clash-premium-installer.git
    cd clash-premium-installer
    ```
 
